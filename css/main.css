@@ -1,0 +1,13 @@
+.header-background-image{
+   background-image: url(../Zet-Site-Content/Header/background+overlay.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
+.footer-background-image{
+   background-image: url(../Zet-Site-Content/Footer/Rectangle\ 8.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
